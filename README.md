@@ -4,7 +4,7 @@ Advanced-Force.com-Testing
 0. About This Project
 ---------------------
 
-This project contains the code related to the talk I gave at Cloudstock 2012 on Advanced Testing Techniques on Force.com
+This project contains the code related to the talk I gave at Cloudstock 2012 on Advanced Testing Techniques on Force.com the slides for which are on speakerdeck https://speakerdeck.com/u/pbattisson/p/advanced-testing-techniques-on-forcecom-cloudstock-london-2012
 
 The project contains two objects, Truck and Package which we will be working with. The aim is to write some code that will allow us to assign from a list of Packages to a Truck until it is at least 90% full. The project presents two ways of doing it, one with mock objects and one without using mock objects in order to show the relatively similarities as well as the testing differences between them.
 
